@@ -12,7 +12,7 @@ $ npm install
 $ npm run start
 ```
 
-Create an .env file at root project directory and apply following parameter.__
+Create an .env file at root project directory and apply following parameter.\
 **Note**: Leave ```CORS_ORIGIN``` blank if you don't utilized frontend framework.
 ```
 PORT = 
